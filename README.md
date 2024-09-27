@@ -19,7 +19,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 ## Overview
 This project is a HTML and CSS based project of Blog preview card. Cards are image on the top followed by some text in a rectangular area. In this project angle brackets’ SVG image is used as card-image.
 
-### The challenge [the-challenge]
+### The challenge
 
 Users should be able to:
 
@@ -39,9 +39,9 @@ For Mobile:
 - Solution URL: [Github Page](https://github.com/nayan041/Blog-preview-card.git)
 - Live Site URL: [Frontend Mentor’s Blog preview card website](https://nayan041.github.io/Blog-preview-card/)
 
-## My process [my-process]
+## My process
 
-### Built with [built-with]
+### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
@@ -49,16 +49,16 @@ For Mobile:
 - Desktop-first workflow
 - Media Query
 
-### What I learned [what-i-learn]
+### What I learned
 Spacing is very much complicated to me. It is important to maintain proper spacing using CSS. Media Query, `box-shadow`, `.root` pseudo class, `var()` method and variable `@font-face` using methods.
 
 Figma design related guide and Git related learning is very much helpful. Thanks to **Frontend Mentor** for written guidance.
 
 
-### Continued development [continued-development]
+### Continued development
 CSS proper spacing and HTML nested structure limiting techniques.
 
-### Useful resources [useful-resources]
+### Useful resources
 
 -  [Jonas’ Course on Udemy regarding  HTML and CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/?couponCode=ST22MT92324A) - This website helped me for growing confidence on Card building.
 
