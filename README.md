@@ -36,8 +36,8 @@ For Mobile:
 
 ### Links
 
-- Solution URL: [Github Page](https://your-solution-url.com)
-- Live Site URL: [Frontend Mentor’s Blog preview card website](https://your-live-site-url.com)
+- Solution URL: [Github Page](https://github.com/nayan041/Blog-preview-card.git)
+- Live Site URL: [Frontend Mentor’s Blog preview card website](https://nayan041.github.io/Blog-preview-card/)
 
 ## My process [my-process]
 
